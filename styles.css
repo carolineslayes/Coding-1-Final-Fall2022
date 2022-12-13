@@ -1,0 +1,13 @@
+.carousel img 
+{
+    object-fit: cover;
+    object-position:center;
+    height:400px;
+    overflow:hidden;
+}
+
+img {
+    padding:20px;
+}
+
+h5 {color:blue;}
